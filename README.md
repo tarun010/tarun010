@@ -4,6 +4,18 @@
 - ### [tarun010.pythonanywhere.com](https://tarun010.pythonanywhere.com) - [Click here](https://github.com/tarun010/tarun010.pythonanywhere.com) to view code repository:
   - Responsive portfolio website that uses the Flask micro web framework. Blog application and contact form also built within. Uses GitHub REST API to display public repositories as projects.
 
+- ### [trading-bot-simulator](https://gitfront.io/r/tvf3py3/38e6a314437481a346c4eaccce76e3c0cf3167a0/trading-bot-simulator/):
+  - Cryptocurrency paper-trading bot that uses Kraken exchange's REST API to receive Open, High, Low and Close data and then takes a decision to either buy or sell.
+
+- ### [ML-Classification](https://gitfront.io/r/tvf3py3/3533d08f15fc39d1cd4ef0b8421466915496edc4/ML-Classification/):
+  - Group project; Data pre-processing; Hyper-parameter tuning; Model performance over dataset.
+
+- ### [quoridor](https://github.com/tarun010/quoridor):
+  - Group project: Software Engineering course; Quoridor board game; Java; Unit testing; Javadocs.
+
+- ### [typing_speed_calculator](https://github.com/tarun010/typing_speed_calculator):
+  - Group project; MS-DOS application written in C++; Calculates typing speed of a sample text; Also displays a leaderboard. 
+
 <!--
 **tarun010/tarun010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
