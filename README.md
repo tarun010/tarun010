@@ -5,7 +5,11 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
   <br>
+ <a>Personal website:</a> 
   <a href="https://tarun010.pythonanywhere.com">tarun010.pythonanywhere.com</a>
+ <br>
+ <a>E-mail:</a> 
+  <a href="mailto:tsubramanian@mun.ca">tsubramanian@mun.ca</a>
 </p>
 
 ## Projects
