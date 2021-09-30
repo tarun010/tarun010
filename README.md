@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Projects
+- ### [tarun010.pythonanywhere.com](https://tarun010.pythonanywhere.com) - [Click here](https://github.com/tarun010/tarun010.pythonanywhere.com) to view code repository:
+  - Responsive portfolio website that uses the Flask micro web framework. Blog application and contact form also built within. Uses GitHub REST API to display public repositories as projects.
+
 <!--
 **tarun010/tarun010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
