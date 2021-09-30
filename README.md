@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Tarun 👋
+
+<p>
+ <a href="https://www.linkedin.com/in/tarun010/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  <br>
+  <a href="https://tarun010.pythonanywhere.com">tarun010.pythonanywhere.com</a>
+</p>
 
 ## Projects
 - ### [tarun010.pythonanywhere.com](https://tarun010.pythonanywhere.com) - [Click here](https://github.com/tarun010/tarun010.pythonanywhere.com) to view code repository:
