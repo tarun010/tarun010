@@ -27,7 +27,7 @@
   - Group project: Software Engineering course; Quoridor board game; Java; Unit testing; Javadocs.
 
 - ### [solidworks_projects](https://github.com/tarun010/solidworks_projects):
-  - SolidWorks projects from Engineering Graphics course.
+  - Computer-Aided Design projects using Dassault SolidWorks - Engineering Graphics course.
 
 - ### [typing_speed_calculator](https://github.com/tarun010/typing_speed_calculator):
   - Group project; MS-DOS application written in C++; Calculates typing speed of a sample text; Also displays a leaderboard. 
