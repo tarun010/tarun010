@@ -8,6 +8,9 @@
   <a href="https://tarun010.pythonanywhere.com">tarun010.pythonanywhere.com</a>
  <br>
   <a href="mailto:tsubramanian@mun.ca">tsubramanian@mun.ca</a>
+ <br>
+ <br>
+ <a href="https://tarun010.pythonanywhere.com/static/Resume-Tarun_Subramanian.pdf">View Résumé</a>
 </p>
 
 ## Projects
