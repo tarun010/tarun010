@@ -14,8 +14,11 @@
 </p>
 
 ## Featured Projects
+- ### [Wine Quality Predictor](https://github.com/tarun010/wine_quality_prediction)
+   - Exploration of data preparation techniques for wine quality prediction
+
 - ### [PerfectForm](https://github.com/tarun010/PerfectForm):
-  - Course Project - Computer Vision (COMP4301): Computer vision techniques for analyzing a side-profile video of an individual doing exercise
+  - Computer vision techniques for analyzing a side-profile video of an individual doing exercise
 
 - ### [tarun010.pythonanywhere.com](https://tarun010.pythonanywhere.com) - [Click here](https://github.com/tarun010/tarun010.pythonanywhere.com) to view code repository:
   - Responsive portfolio website that uses the Flask micro web framework. Blog application and contact form also built within. Uses GitHub REST API to display public repositories as projects.
